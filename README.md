@@ -15,8 +15,8 @@ I am an enthusiastic tech developer passionate about building innovative solutio
 
 ## 🌱 What I'm currently working on
 
-- [Your current project or learning focus]
-- Exploring [technology or topic] to enhance my skills.
+- EDI Project
+- Exploring ML to enhance my skills.
 
 ---
 
